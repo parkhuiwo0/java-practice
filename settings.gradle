@@ -1,2 +1,3 @@
 rootProject.name = 'hw-patterns'
 
+include 'async-invoke'
